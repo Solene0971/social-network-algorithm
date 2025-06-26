@@ -1,12 +1,12 @@
 # Projet SAÉ S102 - Comparaison d'algorithme
-Ce projet a été réalisé dans le cadre de la SAÉ S202 du BUT Informatique (IUT Villetaneuse Université Sorbonne Paris Nord). Deuxième partie de la SAÉ S101.
+Deuxième partie de la SAÉ S101. Ce projet a été réalisé dans le cadre de la SAÉ S202 du BUT Informatique (IUT Villetaneuse Université Sorbonne Paris Nord).
 
 Ce projet porte sur l’analyse et la manipulation d’un réseau social sous forme de graphe en Python. Il met en œuvre des structures de données et des algorithmes pour modéliser des communautés d'amis, les trier et identifier des groupes fortement connectés.
 
 ## Livrables
 - Fichiers CSV représentants les connexions
-- Fichier .py des différentes fonctions utilisants les fichiers CSV
-- Sujet de la SAÉ S102
+- Fichier .ipynb des différentes fonctions
+- Fichier .py des test unitaires des fonctions implémentées
 
 
 ## Objectifs
